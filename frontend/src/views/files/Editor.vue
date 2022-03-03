@@ -15,7 +15,8 @@
 
     <breadcrumbs base="/files" noLink />
 
-    <form id="editor"></form>
+    <!-- <form id="editor"></form> -->
+    <div>2333</div>
   </div>
 </template>
 
